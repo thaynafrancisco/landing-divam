@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap');
+
+body h1, body h2, body p {
+    font-family: 'Noto Sans', sans-serif;
+}
+
+header {
+    background: linear-gradient(to right, #471C8A, #C378DD);
+}
+
+header button {
+    font-size: 24px!important;
+}
+header h1 {
+    color: white;
+    font-size: 80px;
+    font-weight: 600;
+}
+header p {
+    color: #fff;
+    font-size: 24px;
+}
+
+.nav-link {
+    color: #fff;
+}
+
+.navbar a {
+    color: #fff;
+}
+
+.video {
+    background-color: #B155B5;
+    color: #fff;
+}
+
+button {
+    border-radius: 32px!important;
+    padding: 8px 32px!important;
+}
+
+.btn-orange {
+    background: #F6A532!important;
+}
+
+.btn-outline {
+    border: 1px solid #F6A532!important;
+    color: #F6A532!important;
+}
+
+.btn-purple {
+    background-color: #BB6BD9!important;
+    color: #fff!important;
+}
+
+.para-pacientes {
+    background-color: #F2F4F7;
+}
+
+.depoimentos {
+    background: linear-gradient(to right, #C378DD, #471C8A);
+}
+
+img {
+    margin: 0 auto;
+}
